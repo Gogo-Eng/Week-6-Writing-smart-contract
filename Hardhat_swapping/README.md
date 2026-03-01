@@ -11,3 +11,11 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+
+
+![Add Liquidity Forking](images/addLiquidity-forking.png)
+![Add Liquidity ETH](images/addLiquidityETH.png)
+![Swap ETH For Exact Tokens](images/swapETHForExactTokens.png)
+![Swap Exact ETH For Tokens](images/swapExactETHForTokens.png)
+![Swap Exact Tokens For Tokens](images/swapExactTokensForTokens.png)
+![Swap Tokens For Exact Tokens](images/swapTokensForExactTokens.png)
